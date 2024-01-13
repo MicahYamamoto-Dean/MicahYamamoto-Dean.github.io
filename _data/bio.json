@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "MicahYamamoto-Dean",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "picture": "https://avatars.githubusercontent.com/u/143159739?s=400&u=be9ed741f2a940b098f3a575cd45d3a48b9164ef&v=4",
+    "email": "micahyd@hawaii.edu",
+    "phone": "808-861-1770",
+    "website": "https://MicahYamamoto-Dean.github.io",
+    "summary": "I am studying for a B.S. in Accounting and Managment Information Systems at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "MicahYamamoto-Dean", "url": "http://github.com/MicahYamamoto-Dean" },
