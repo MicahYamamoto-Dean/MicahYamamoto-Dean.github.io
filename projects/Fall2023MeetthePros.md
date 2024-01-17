@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://www.hscpa.org/writable/documents/mtp-p_1.png
+image: img/Screenshot 2024-01-16 145645.png
 title: "Fall 2023 Meet the Pros"
 date: 2024
 published: true
