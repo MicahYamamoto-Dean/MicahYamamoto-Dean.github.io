@@ -10,7 +10,7 @@ labels:
   - Major
 ---
 
-*Summary*
+## Summary
 
 I choose Management Information Systems (MIS) as a second major to Accounting, primarily because it is a great second major for an accounting major, who is going for their CPA and it is applicable in all fields of business and will allow me to be a more valuable asset for the company I work for in the future.
 
