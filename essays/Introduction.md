@@ -8,7 +8,7 @@ published: true
 labels:
   - Student
   - Club Member
-  - Worker For UH
+  - Worker at UH
 ---
 
 ## About me
