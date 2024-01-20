@@ -1,59 +1,52 @@
 {
   "basics": {
-    "name": "Micah Yamamoto-Dean ",
-    "label": "Undergraduate Student at the Shidler College of Business ",
-    "picture": "https://avatars.githubusercontent.com/u/143159739?s=400&u=be9ed741f2a940b098f3a575cd45d3a48b9164ef&v=4 ",
-    "email": "micahyd@hawaii.edu ",
-    "phone": "808-861-1770 ",
+    "name": "Micah Yamamoto-Dean",
+    "label": "Undergraduate Student at the Shidler College of Business",
+    "picture": "https://avatars.githubusercontent.com/u/143159739?s=400&u=be9ed741f2a940b098f3a575cd45d3a48b9164ef&v=4",
+    "email": "micahyd@hawaii.edu",
+    "phone": "808-861-1770",
     "website": "https://MicahYamamoto-Dean.github.io",
-    "summary": " I am studying for a B.B.A in Accounting and Managment Information Systems at the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2025. ",
-    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.B.A in Accounting and Management Information Systems at the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring 2025.",
+    "location": {
+      "address": "",
+      "postalCode": "96782",
+      "city": "Pearl City",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
       { "network": "github", "username": "MicahYamamoto-Dean", "url": "http://github.com/MicahYamamoto-Dean" },
       { "network": "linkedin", "username": "Micah Yamamoto-Dean", "url": "https://www.linkedin.com/in/micah-yamamoto-dean-b303b21a4/" }
     ]
   },
-  "interests": [
-    { "name": "Long Boarding" },
-    { "name": "Artifical Intelligence" },
-    { "name": "Quantum Computing" },
-    { "name": "Photography" },
-    { "name": "Data Analytics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages",
-      "keywords": [ "Hawaiian", "Spanish" ]
-    },
-    {
-      "name": "Tools",
-      "keywords": [ "Canva", "Microsoft Excel", "Alteryx", "Salesforce", "Tableau" ]
-    }
-  ],
+  "interests": ["Long Boarding", "Artificial Intelligence", "Quantum Computing", "Photography", "Data Analytics"],
+  "skills": {
+    "Languages": ["Hawaiian", "Spanish"],
+    "Tools": ["Canva", "Microsoft Excel", "Alteryx", "Salesforce", "Tableau"]
+  },
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting & Managment Information Systems (expected Spring, 2025)",
+      "area": "Accounting & Management Information Systems (expected Spring 2025)",
       "studyType": "BBA.",
       "startDate": "2021-08-21",
       "endDate": "Present",
-      "courses": [ "ITM 352", "ACC 321", "ACC 401", "BUS 310"
-      ]
+      "courses": ["ITM 352", "ACC 321", "ACC 401", "BUS 310"]
     }
   ],
   "work": [
     {
-      "company": "School of Accountacy, Shidler College of Business",
+      "company": "School of Accountancy, Shidler College of Business",
       "position": "Accounting Courses Grader",
       "website": "",
       "startDate": "2023-09-25",
       "endDate": "Present",
-      "summary": "Graded students exams, quizes, homework, extracredit, and more, for ACC 200, ACC 210, ACC 321",
+      "summary": "Graded students' exams, quizzes, homework, extra credit, and more for ACC 200, ACC 210, ACC 321",
       "highlights": [
-        "Maintain, update, and oversee students grades",
-        "Consistently and efficently keep grades correctly updated"
+        "Maintain, update, and oversee students' grades",
+        "Consistently and efficiently keep grades correctly updated"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -63,10 +56,7 @@
       "startDate": "2023",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
-        "Attend club social events with other students",
-        "Network with professionals"
-      ]
+      "highlights": ["Attend club social events with other students", "Network with professionals"]
     },
     {
       "organization": "Beta Alpha Psi",
@@ -75,11 +65,7 @@
       "startDate": "2024",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
-        "Teach students about the various fields in accounting",
-        "Represent Beta Alpha Psi",
-        "Network with professionals"
-      ]
+      "highlights": ["Teach students about the various fields in accounting", "Represent Beta Alpha Psi", "Network with professionals"]
     }
   ],
   "awards": [
@@ -96,9 +82,5 @@
       "summary": "The Pele Awards is one of 15 District Competitions for the American Advertising Awards recognizing the best advertising and creative design work in Hawaii."
     }
   ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+  "references": [{"name": "Available upon request"}]
 }
