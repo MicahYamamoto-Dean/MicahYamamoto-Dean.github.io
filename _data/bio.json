@@ -19,10 +19,10 @@
       { "network": "linkedin", "username": "Micah Yamamoto-Dean", "url": "https://www.linkedin.com/in/micah-yamamoto-dean-b303b21a4/" }
     ]
   },
-  "interests": ["Long Boarding", "Artificial Intelligence", "Quantum Computing", "Photography", "Data Analytics"],
+  "interests": [{"name": "Long Boarding"}, {"name": "Artificial Intelligence"}, {"name": "Quantum Computing"}, {"name": "Photography"}, {"name": "Data Analytics"}],
   "skills": {
-    "Languages": ["Hawaiian", "Spanish"],
-    "Tools": ["Canva", "Microsoft Excel", "Alteryx", "Salesforce", "Tableau"]
+    {"name": "Languages", "keywords":["Hawaiian", "Spanish"]},
+    {"name": "Tools", "keywords":["Canva", "Microsoft Excel", "Alteryx", "Salesforce", "Tableau"]
   },
   "education": [
     {
