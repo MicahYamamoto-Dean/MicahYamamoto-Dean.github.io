@@ -1,35 +1,23 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "E1: UI Basics Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-01-30
 published: false
 labels:
-  - Engineering
+  - WODS Essay
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+## Summary 
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+To summarize the Browser History WODS: Browser History one, had us create a simple webpage using VScode that consisted of a table of contents, embedded links to external sources, images to go with our sections, and much more. Browser History 2 involved us using CSS or cascading style sheets, which allowed us to edit and restyle the webpage, we had created from Browser History 1, such as changing the background color to Ivory, changing the text colors, changing the font types, repositioning/reformating the size and placement of the images, and much more. In Browser History 3, we further excercised and applied our knowledge of both HTML and CSS, editing the format of the webpage, making a navigation bar, dividing our text into collumns, using new tags such as padding, and so much more. A disclaimer is that my WOD timer might have been working properly or is working properly and I am just hard on myself when it comes to persoanl grading of my performance.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+## WOD 1
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+WOD 1 tooked me approxiamtely 20 minutes so SD, even though the WOD timer stated I finished in AV at 17 minutes. This WOD was the most challenging out of all three of the WODs, having to now use what we had just learned in class, such as the EMMET boiler plate, img HTML tags, hyper reference HTML tags, ID HTML tags, and so much more content that we had just learned in class/labs or have not learned or touched upon at all. My first attempt took me well over an hour... maybe even two and I was under alot of stress to say the least and was having tremendous troubles with my HTML code and doing a tremendous amount of troubleshooting to get it to work. After watching the portion of the screncast, that told you how to properly use the ID tag and make the table of contents, I felt confident to try it again, getting lets just say an AV on my second attmept and feeling a tremendous amount of growth and accomplishment after finishing it on my second attempt. I learned alot about some of the innerworkings of HTML tags, through this WOD, and I had learned that it is much more rewarding and beneficial to attempt it first and then if you're having any troubles then watch the solution video. You will also find that the solution video, matter in fact, always is able to execute what you want it to do in a much easier and simpler fashion than you would have thought it would have needed.
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
+## WOD 2
 
 Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
@@ -37,7 +25,7 @@ The Honolulu Rail project at home has become this sort of poster child of failur
 
 The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
 
-## In the context of relationships
+## WOD 3
 
 So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
 
@@ -45,7 +33,7 @@ Relationships, regardless if they're romantic or not take work. Humans are fickl
 
 Relationships have always been difficult, and by nature will continue to be so.
 
-## Okay!
+## Advice
 
 So back to the original premise; why is being one of the club officers so difficult?
 
