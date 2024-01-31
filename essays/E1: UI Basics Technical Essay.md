@@ -19,7 +19,7 @@ WOD 1 tooked me approxiamtely 20 minutes so SD, even though the WOD timer stated
 
 ## WOD 2
 
-WOD 2 took me 
+WOD 2 took me approxiametly 10 minutes so AV, even though the the WOD timer gave me RX at 8 minutes. Unlike WOD 1, this WOD was much more straight foward and easier to trouble shoot
 
 ## WOD 3
 
