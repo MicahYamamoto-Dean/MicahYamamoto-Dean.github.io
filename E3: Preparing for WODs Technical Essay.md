@@ -4,7 +4,7 @@ type: essay
 title: "E3: Preparing for WODs Technical Essay"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-17
-published: true
+published: false
 labels:
   - Technical Essay
   - Learning
