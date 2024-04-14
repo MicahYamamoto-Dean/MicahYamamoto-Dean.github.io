@@ -4,7 +4,7 @@ type: essay
 title: "E4: Progress in Programming Report"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-13
-published: false
+published: true
 labels:
   - Essay
   - Learning
