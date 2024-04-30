@@ -1,7 +1,6 @@
 ---
-layout: project
-type: project
-image: img/cotton/cotton-square.png
+layout: essay
+type: essay
 title: "Cotton"
 date: 04/29/2024
 published: false
